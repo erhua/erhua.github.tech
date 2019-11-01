@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://erhua.github.io/e-book/index.html</loc>
+    
+    <lastmod>2019-11-01T07:23:37.150Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://erhua.github.io/2019/03/19/python%E4%BB%8E%E5%86%85%E5%AD%98%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%AF%BC%E5%85%A5/</loc>
     
     <lastmod>2019-03-19T13:04:19.791Z</lastmod>
@@ -23,21 +30,14 @@
   </url>
   
   <url>
-    <loc>https://erhua.github.io/e-book/index.html</loc>
-    
-    <lastmod>2019-03-19T12:37:11.039Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://erhua.github.io/search/index.html</loc>
+    <loc>https://erhua.github.io/project/index.html</loc>
     
     <lastmod>2019-03-19T12:37:11.038Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://erhua.github.io/project/index.html</loc>
+    <loc>https://erhua.github.io/search/index.html</loc>
     
     <lastmod>2019-03-19T12:37:11.038Z</lastmod>
     
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://erhua.github.io/2016/10/10/%E4%BA%91%E5%8D%97%E4%B9%8B%E6%97%85/</loc>
+    <loc>https://erhua.github.io/2018/04/10/%E5%B9%BF%E5%91%8A%E7%9A%84%E5%8F%8C%E5%BC%95%E6%93%8E%E5%9B%9E%E5%BD%92%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2019-03-19T12:37:11.034Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://erhua.github.io/2018/04/10/%E5%B9%BF%E5%91%8A%E7%9A%84%E5%8F%8C%E5%BC%95%E6%93%8E%E5%9B%9E%E5%BD%92%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://erhua.github.io/2016/10/10/%E4%BA%91%E5%8D%97%E4%B9%8B%E6%97%85/</loc>
     
     <lastmod>2019-03-19T12:37:11.034Z</lastmod>
     
